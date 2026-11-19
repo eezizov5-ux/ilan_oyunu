@@ -1,4 +1,4 @@
-﻿namespace Snake_Game_Project
+﻿namespace ilan_oyunu
 {
     partial class Form1
     {
